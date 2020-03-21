@@ -1,0 +1,9 @@
+Package: com.lint.groupnumberlabels
+Name: GroupNumberLabels
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Shows phone numbers under contacts in group messages.
+Maintainer: lint
+Author: lint
+Section: Tweaks
